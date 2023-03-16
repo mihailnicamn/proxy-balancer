@@ -1,0 +1,31 @@
+lockfileVersion: 5.4
+
+specifiers:
+  net: ^1.0.2
+  sni: ^1.0.0
+  tls: ^0.0.1
+  xpipe: ^1.0.5
+
+dependencies:
+  net: 1.0.2
+  sni: 1.0.0
+  tls: 0.0.1
+  xpipe: 1.0.5
+
+packages:
+
+  /net/1.0.2:
+    resolution: {integrity: sha512-kbhcj2SVVR4caaVnGLJKmlk2+f+oLkjqdKeQlmUtz6nGzOpbcobwVIeSURNgraV/v3tlmGIX82OcPCl0K6RbHQ==}
+    dev: false
+
+  /sni/1.0.0:
+    resolution: {integrity: sha512-YMN2SdbrNjA4OWzpMUe7sZzUvvfEKl2JToyBLfFJMK+EpkU4bJEAkePqYE3YjZtgdLCoUaK0Lo84MjM8UqF38w==}
+    dev: false
+
+  /tls/0.0.1:
+    resolution: {integrity: sha512-GzHpG+hwupY8VMR6rYsnAhTHqT/97zT45PG8WD5eTT1lq+dFE0nN+1PYpsoBcHJgSmTz5ceK2Cv88IkPmIPOtQ==}
+    dev: false
+
+  /xpipe/1.0.5:
+    resolution: {integrity: sha512-tuqoLk8xPl0o+7ny9iPlEZuzjfy1zC5ZJtAGjDDZWmVTVBK5PJP0arMGVu3Y53zSyeYK+YonMVSUv0DJgGN/ig==}
+    dev: false
